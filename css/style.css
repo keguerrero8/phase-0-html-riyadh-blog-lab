@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg) center no-repeat;
   background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  background-attachment: scroll, local;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 80%;
+  color: rgba(121, 48, 48, 0.514);
 }
 
 .wrapper {
@@ -26,7 +27,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgba(5, 5, 5, 0.911);
 }
 
 h1 {
@@ -43,6 +44,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: rgba(20, 20, 20, 0.911);
 }
 
 img {
@@ -53,10 +55,11 @@ img {
 
 p {
   font-size: 1em;
+  color: rgba(235, 12, 12, 0.911);
 }
 
 a {
-  color: black;
+  color: rgb(216, 11, 11);
   text-decoration: none;
 }
 
